@@ -1500,3 +1500,6 @@ zmaticoo.com,5135063,RESELLER
 zmaticoo.com,5135224,RESELLER
 zmaticoo.com,5135302,RESELLER
 zoomd.com,88478941,RESELLER
+
+# Facebook
+facebook.com, 273902562296159, DIRECT, c3e20eee3f780d68
