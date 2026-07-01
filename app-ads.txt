@@ -2306,3 +2306,6 @@ freewheel.tv,1138513-524565, RESELLER
 freewheel.tv,sg1258340, RESELLER
 supply.colossusssp.com, 907, RESELLER
 pubmatic.com, 167188, RESELLER, 5d62403b186f2ace
+
+# new meta
+facebook.com, 1946840875952093, DIRECT, c3e20eee3f780d68
